@@ -170,8 +170,9 @@ img{
 
 .card__cta{
     margin-left: 1em;
-    background-color: black;
-    color: #fff;
+    background-color: #fff;
+    color: black;
+    font-weight: bold;
     text-decoration: none;
     padding: 1em 3em;
     width: 200px;
